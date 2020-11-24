@@ -1,5 +1,5 @@
 <?php
 
-include_once(MyPhotoGallery.html);
+include_once(Pabalan.html);
 
 ?>
